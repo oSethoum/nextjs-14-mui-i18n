@@ -1,8 +1,5 @@
 "use client";
 
-import { CacheProvider } from "@emotion/react";
-import createCache from "@emotion/cache";
-import { prefixer } from "stylis";
 import rtlPlugin from "stylis-plugin-rtl";
 import { ReactNode } from "react";
 import { AppRouterCacheProvider } from "@mui/material-nextjs/v14-appRouter";
